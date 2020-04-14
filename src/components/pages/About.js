@@ -13,7 +13,7 @@ const About = () => {
         <li>REST</li>
         <li>JSON</li>
         <li>Git</li>
-        <li>Deployed to AWS using AWS CI/CD pipeline</li>
+        <li>Deployed to AWS using AWS Amplify</li>
       </p>
       <br></br>
       <br></br>
